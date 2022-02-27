@@ -1,8 +1,10 @@
 {
-	"name": "fanyi",
+	"name": "valor-fanyi",
 	"displayName": "fanyi",
 	"description": "",
 	"version": "0.0.1",
+	"repository": "https://github.com/g770728y/valor-vscode-fanyi-extension",
+	"publisher": "g770728y",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
